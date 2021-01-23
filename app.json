@@ -8,10 +8,6 @@
       "description": "Your Bot token from @Botfather",
       "value": ""
     },
-    "DEV_TELE_ID": {
-      "description": "Your API_ID from https://my.telegram.org/apps ",
-      "value": ""
-    },
     "LOG_GROUP": {
     "description": "ID of the Group Logging Group",
     "value": ""
