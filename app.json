@@ -1,0 +1,25 @@
+{
+  "name": "Web-shot BOT",
+  "description": "A bot to render websites and upload the imageto telegraph",
+  "repository": "https://github.com/alenpaul2001/Web-Screenshot-Bot",
+  "keywords": ["telegram", "telegraph", "website","telegram bot"],
+  "env": {
+     "TELE_TOKEN": {
+      "description": "Your Bot token from @Botfather",
+      "value": ""
+    },
+    "DEV_TELE_ID": {
+      "description": "Your API_ID from https://my.telegram.org/apps ",
+      "value": ""
+    },
+    "LOG_GROUP": {
+    "description": "ID of the Group Logging Group",
+    "value": ""
+    }
+   },
+   "buildpacks": [{
+      "url": "heroku/python"
+   }, {
+      "url": "https://github.com/heroku/heroku-buildpack-google-chrome"
+   }]
+}
