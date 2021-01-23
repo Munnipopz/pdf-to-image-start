@@ -19,7 +19,7 @@ A Telegram bot that can:
 - Convert PDF files into images
 - Beautify handwritten notes images into PDF files
 - Convert webpages and images into PDF files
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Munnipopz/web-lockal)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Munnipopz/pdf-to-image-start)
 
 ## Getting Started
 
