@@ -8,7 +8,7 @@
       "description": "Your Bot token from @Botfather",
       "value": ""
     },
-    "LOG_GROUP": {
+    "DEV_TELE_ID": {
     "description": "ID of the Group Logging Group",
     "value": ""
     }
